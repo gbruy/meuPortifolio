@@ -22,10 +22,10 @@ nav{
     
 }
 .nav-list{
-    list-style: none;
+    list-style:none;
     display: flex;
 }
-main{
+.main{
     background: url("/public/img/background.jpg") no-repeat center center;
     background-size: cover;
     height: 92vh;
